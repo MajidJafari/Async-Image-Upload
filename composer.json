@@ -1,0 +1,11 @@
+{
+    "require": {
+        "react/http": "^0.8.3",
+        "react/child-process": "^0.5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
