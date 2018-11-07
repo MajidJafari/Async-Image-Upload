@@ -6,4 +6,4 @@ Some code modified and changed based on my programming style.
 
 The technology used:
 1. PHP 7.2
-2. ReactPHP framework a framework for reacting programming in PHP
+2. ReactPHP framework a framework for reactive programming in PHP
